@@ -1,1 +1,165 @@
-/* место для вашего кода */
+.content-section {
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 1100px;
+  margin: auto;
+}
+
+.header {
+  display: flex;
+  align-items: baseline;
+  background-color: pink;
+}
+
+.header_menu {
+}
+
+.header_menu-list {
+  display: flex;
+  flex-direction: row; 
+  gap: 13px;
+  padding: 113px 36.52px 138px 50px;
+  width: 391.48px;
+  height: 22px;
+}
+
+
+.menu-item {
+  display: inline-block;
+}
+
+.header_logo {
+  display: block; /* нужно тк это строчное и не воспринимает задаваемые размеры итп*/
+  width: 148px;
+  height: 105px;
+  /*align-content: center;*/
+
+}
+
+.header_logo-image {
+  width: 100%;
+
+}
+
+.adress {
+  display: block;
+  width: 240;
+  height: 98;
+
+
+
+}
+
+.header_address {
+
+}
+
+.address_text {
+
+}
+
+.address-span {
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+
+.cover {
+
+}
+
+.cover_title {
+
+}
+
+.cover_description {
+
+}
+
+.cover_subline {
+
+}
+
+.cover_button {
+
+}
+
+.lots {
+  padding: 180px 24px 120px;
+}
+
+.secondary_title {
+
+}
+
+.lots_title {
+
+}
+
+.lots_cards-list {
+
+}
+
+.lots_frame {
+
+}
+
+.lot_link {
+
+}
+
+.card {
+
+}
+
+.lots_more-link {
+
+}
+
+.about {
+  padding: 120px 24px 180px;
+}
+
+.about_container {
+
+}
+
+.about_column-left {
+
+}
+
+.about_column-right {
+
+}
+
+.about_title {
+
+}
+
+.about_description-block {
+
+}
+
+.about_description-primary {
+
+}
+
+.about_description-secondary {
+
+}
+
+.footer_address {
+
+}
+
+.footer_menu {
+
+}
+
+.media_list {
+
+}
+
+.media{
+
+}
