@@ -144,6 +144,7 @@
 
 .accent_span {
   display: block;
+  z-index: 1;
 }
 
 .accent_span-start {
@@ -179,22 +180,23 @@
   line-height: 28px;
   /* identical to box height, or 127% */
   text-transform: uppercase;
+  z-index: 1;
 
 }
 
 .bet-button {
-font-family: 'Raleway';
-font-style: normal;
-font-weight: 500;
-font-size: 22px;
-line-height: 26px;
-text-align: center;
-text-transform: uppercase;
-background-color: transparent;
-color: #FFFFFF;
-border: 1px solid #FFFFFF;
-padding: 12px 32px 11px 31px;
-
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 26px;
+  text-align: center;
+  text-transform: uppercase;
+  background-color: transparent;
+  color: #FFFFFF;
+  border: 1px solid #FFFFFF;
+  padding: 12px 32px 11px 31px;
+  z-index: 1;
 }
 
 .lots {
